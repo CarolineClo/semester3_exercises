@@ -1,0 +1,14 @@
+* {
+  font-family: Helvetica, arial, sans-serif;
+}
+
+#bar_container {
+  height: 200px;
+  display: flex;
+}
+.bar {
+  border: 1px solid black;
+  margin: 0.5px;
+  width: 100%;
+  align-self: flex-end;
+}
