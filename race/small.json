@@ -1,4 +1,1 @@
-[
-  { "id": 1, "car_make": "Volkswagen", "car_model": "Fox", "color": "Purple", "owner": "Claiborn Clarkson" },
-  { "id": 2, "car_make": "Honda", "car_model": "Pilot", "color": "Blue", "owner": "Phedra Vanner" }
-]
+[{ "id": 1, "car_make": "Volkswagen", "car_model": "Fox", "color": "Purple", "owner": "Claiborn Clarkson" }]
